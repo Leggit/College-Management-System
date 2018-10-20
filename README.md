@@ -1,2 +1,4 @@
 # College-Management-System
-INCOMPLETE - this is just a demo system for storing details on students and displaying student results.
+INCOMPLETE - This system was made to demonstrate file handling and processing, object orientated programming and the use of JTables. 
+A number of forms do not contain any funcitonality as this was not required. 
+
